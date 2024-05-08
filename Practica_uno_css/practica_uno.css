@@ -30,10 +30,14 @@ nav {
 
 .rgb{
     color: rgb(236, 244, 102);
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .exa{
     color: #5D09A4;
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 
