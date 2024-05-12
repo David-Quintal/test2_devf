@@ -34,6 +34,7 @@ nav {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+
 .exa{
     color: #5D09A4;
     font-size: 40px;
@@ -41,6 +42,10 @@ nav {
 }
 
 
+p:hover, h1:hover, li:hover{
 
+background-color: blanchedalmond; 
+
+}
 
 
