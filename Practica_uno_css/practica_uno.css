@@ -1,11 +1,15 @@
 
 h1{
 color: aqua;
+font-style: oblique;
+font-size: 55px;
 }
 
-h1{
-    color: orangered !important;
+h1:hover{
+background-color: aliceblue;
+color:orangered;
 }
+
 
 body {
     background-color: black;
@@ -15,8 +19,17 @@ nav {
     color:aquamarine;
 }
 
+#inline{
+    display: inline;
+}
+
 .color {
     color: blueviolet;
+    padding: 20px 10px 20px 10px;
+    margin: 20px;
+    border: 2px solid red;
+    height: 30px;
+    width: 20px;
 
 }
 
