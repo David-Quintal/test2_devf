@@ -13,6 +13,7 @@ color:orangered;
 
 body {
     background-color: black;
+    height: 10000px;
 }
 
 nav {
@@ -49,6 +50,7 @@ nav {
 
 
 .exa{
+    text-align: center;
     color: #5D09A4;
     font-size: 40px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -61,4 +63,60 @@ background-color: blanchedalmond;
 
 }
 
+.padre{
 
+width: 100%;
+background-image: url("https://img.freepik.com/vector-gratis/retro-fijo-o-telefono-aislado_1308-134786.jpg?size=626&ext=jpg&ga=GA1.1.1687694167.1715472000&semt=ais_user");
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+background-size: contain;
+height: 150px;
+
+}
+
+.hijo1{
+
+color: purple;
+font-size: 30px;
+width: 200px;
+margin: 0 auto;
+margin-top: 15px;
+border: 2px solid purple;
+display: inline-block;
+margin-left: 15px;
+margin-right: 15px;
+
+}
+
+
+.hijo2{
+
+    color: purple;
+    font-size: 30px;
+    width: 200px;
+    margin: 0 auto;
+    margin-top: 15px;
+    border: 2PX solid purple;
+    display: inline-block; 
+    margin-left: 15px;
+    margin-right: 15px;
+    float: right;
+    
+    }
+
+
+.hijo3{
+
+        color: purple;
+        font-size: 30px;
+        width: 200px;
+        margin: 0 auto;
+        margin-top: 15px;
+        border: 2px solid purple;
+        display: inline-block; 
+        margin-left: 15px;
+        margin-right: 15px; 
+        
+        }
+        
